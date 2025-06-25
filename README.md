@@ -5,6 +5,7 @@ A classic arcade-style Snake game built entirely with Python's `turtle` graphics
 ## ✨ Features
 
 * **Classic Gameplay:** Enjoy the traditional Snake game mechanics.
+* **Retro Look:** Black background, green snake, and red food bordered by a white frame for a familiar arcade feel.
 * **Smooth Animation:** Uses `screen.tracer(0)` for fluid snake movement.
 * **Score Tracking:** Keeps track of your current score during gameplay.
 * **High Score Persistence:** Automatically saves and loads the highest score achieved to/from a `high_score.txt` file, even after closing the game.
